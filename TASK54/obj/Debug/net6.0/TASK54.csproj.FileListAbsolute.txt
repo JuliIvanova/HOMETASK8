@@ -1,0 +1,15 @@
+C:\Users\kivanov\Desktop\HOMETASK8\TASK54\obj\Debug\net6.0\TASK54.csproj.AssemblyReference.cache
+C:\Users\kivanov\Desktop\HOMETASK8\TASK54\obj\Debug\net6.0\TASK54.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kivanov\Desktop\HOMETASK8\TASK54\obj\Debug\net6.0\TASK54.AssemblyInfoInputs.cache
+C:\Users\kivanov\Desktop\HOMETASK8\TASK54\obj\Debug\net6.0\TASK54.AssemblyInfo.cs
+C:\Users\kivanov\Desktop\HOMETASK8\TASK54\obj\Debug\net6.0\TASK54.csproj.CoreCompileInputs.cache
+C:\Users\kivanov\Desktop\HOMETASK8\TASK54\bin\Debug\net6.0\TASK54.exe
+C:\Users\kivanov\Desktop\HOMETASK8\TASK54\bin\Debug\net6.0\TASK54.deps.json
+C:\Users\kivanov\Desktop\HOMETASK8\TASK54\bin\Debug\net6.0\TASK54.runtimeconfig.json
+C:\Users\kivanov\Desktop\HOMETASK8\TASK54\bin\Debug\net6.0\TASK54.dll
+C:\Users\kivanov\Desktop\HOMETASK8\TASK54\bin\Debug\net6.0\TASK54.pdb
+C:\Users\kivanov\Desktop\HOMETASK8\TASK54\obj\Debug\net6.0\TASK54.dll
+C:\Users\kivanov\Desktop\HOMETASK8\TASK54\obj\Debug\net6.0\refint\TASK54.dll
+C:\Users\kivanov\Desktop\HOMETASK8\TASK54\obj\Debug\net6.0\TASK54.pdb
+C:\Users\kivanov\Desktop\HOMETASK8\TASK54\obj\Debug\net6.0\TASK54.genruntimeconfig.cache
+C:\Users\kivanov\Desktop\HOMETASK8\TASK54\obj\Debug\net6.0\ref\TASK54.dll
